@@ -1,0 +1,438 @@
+1;;;;439;;;;;;KSC Lokeren;Lokeren
+2;;;;440;;;;;;KV Kortrijk;Kortrijk
+3;;;;441;;;;;;KV Mechelen;Mechelen
+4;;;;442;;;;;;Cercle Brügge;Cercle Brugge
+5;;;;443;;;;;;FC Brügge;Club Brugge
+6;;;;444;;;;;;KAA Gent;Gent
+7;;;;445;;;;;;KRC Genk;Genk
+8;;;;446;;;;;;RSC Charleroi;Charleroi
+9;;;;447;;;;;;RSC Anderlecht;Anderlecht
+10;;;;448;;;;;;KV Oostende;Oostende
+11;;;;449;;;;;;Standard Lüttich;Standard
+12;;;;450;;;;;;SV Zulte Waregem;Waregem
+13;;;;451;;;;;;Lierse SK;Lierse
+14;;;;452;;;;;;KVC Westerlo;Westerlo
+15;;;;453;;;;;;KSV Roeselare;Roeselare
+16;;;;454;;;;;;KAS Eupen;Eupen
+17;;;;455;;;;;;VV St. Truiden;St Truiden
+18;;;;456;;;;;;RAEC Mons;Bergen
+19;;;;457;;;;;;Beerschot AC;Germinal
+20;;;;458;;;;;;AFC Sunderland;Sunderland
+21;;;;459;;;;;;FC Arsenal;Arsenal
+22;;;;460;;;;;;FC Burnley;Burnley
+23;;;;461;;;;;;Manchester United;Man United
+24;;;;462;;;;;;Birmingham City;Birmingham
+25;;;;463;Portsmouth;;;;;Manchester City;Man City
+26;;;;464;;;;;;FC Chelsea;Chelsea
+27;;;;465;;;;;;FC Everton;Everton
+28;;;;466;;;;;;FC Liverpool;Liverpool
+29;;;;467;;;;;;FC Southampton;Southampton
+30;;;;468;;;;;;Newcastle United;Newcastle
+31;;;;469;;;;;;Hull City;Hull
+32;;;;470;;;;;;Leicester City;Leicester
+33;;;;471;;;;;;Queens Park Rangers;QPR
+34;;;;472;;;;;;Blackburn Rovers;Blackburn
+35;;;;473;;;;;;Bolton Wanderers;Bolton
+36;;;;474;;;;;;Derby County;Derby
+37;;;;475;Wolves;;;;;Stoke City;Stoke
+38;;;;476;;;;;;Tottenham Hotspur;Tottenham
+39;;;;477;;;;;;FC Fulham;Fulham
+40;;;;478;;;;;;West Bromwich Albion;West Brom
+41;;;;479;;;;;;West Ham United;West Ham
+42;;;;480;;;;;;Swansea City;Swansea
+43;;;;481;;;;;;FC Blackpool;Blackpool
+44;;;;482;;;;;;Sheffield Wednesday;Sheffield Weds
+45;;;;483;;;;;;Norwich City;Norwich
+46;;;;484;;;;;;FC Reading;Reading
+47;;;;485;;;;;;FC Middlesbrough;Middlesbrough
+48;;;;486;;;;;;Nottingham Forest;Nott'm Forest
+49;;;;487;;;;;;Leeds United;Leeds
+50;;;;488;;;;;;Huddersfield Town;Huddersfield
+51;;;;489;Cardiff;;;;;Ipswich Town;Ipswich
+52;;;;490;Preston;;;;;Coventry City;Coventry
+53;;;;491;;;;;;Wigan Athletic;Wigan
+54;;;;492;Scunthorpe;;;;;FC Watford;Watford
+55;;;;493;;;;;;AFC Bournemouth;Bournemouth
+56;;;;494;;;;;;Charlton Athletic;Charlton
+57;;;;495;;;;;;;
+58;;;;496;;;;;;;
+59;Brighton & Hove Albion;;;497;Plymouth;;;;;;
+60;Cardiff City;;;498;;;;;;;
+61;;;;499;;;;;;;
+62;;;;500;;;;;;;
+63;;;;501;Doncaster;;;;;;
+64;FC Brentford;;;502;;;;;;;
+65;;;;503;Peterboro;;;;;;
+66;;;;504;Barnsley;;;;;;
+67;FC Millwall;;;505;;;;;;;
+68;;;;506;;;;;;;
+69;;;;507;Millwall;;;;;;
+70;;;;508;Brighton;;;;;;
+71;;;;509;;;;;;;
+72;;;;510;;;;;;;
+73;;;;511;;;;;;;
+74;;;;512;Yeovil;;;;;;
+75;Rotherham United;;;513;Nice;;;;;;
+76;;;;514;Rennes;;;;;;
+77;;;;515;Sochaux;;;;;;
+78;Wolverhampton Wanderers;;;516;Bordeaux;;;;;;
+79;AFC Rochdale;;;517;Boulogne;;;;;;
+80;Bradford City;;;518;Lille;;;;;;
+81;;;;519;Montpellier;;;;;;
+82;Colchester United;;;520;St Etienne;;;;;;
+83;;;;521;Valenciennes;;;;;;
+84;Crawley Town;;;522;Grenoble;;;;;;
+85;Crewe Alexandra;;;523;Lens;;;;;;
+86;Doncaster Rovers;;;524;Paris SG;;;;;;
+87;FC Barnsley;;;525;Auxerre;;;;;;
+88;FC Chesterfield;;;526;Marseille;;;;;;
+89;FC Gillingham;;;527;Toulouse;;;;;;
+90;FC Walsall;;;528;Lorient;;;;;;
+91;Fleetwood Town;;;529;Lyon;;;;;;
+92;Leyton Orient;;;530;Nancy;;;;;;
+93;Milton Keynes Dons;;;531;Le Mans;;;;;;
+94;Notts County;;;532;Monaco;;;;;;
+95;Oldham Athletic;;;533;Arles;;;;;;
+96;Peterborough United;;;534;Brest;;;;;;
+97;Port Vale FC;;;535;Caen;;;;;;
+98;Preston North End;;;536;Dijon;;;;;;
+99;Scunthorpe United;;;537;Ajaccio;;;;;;
+100;;;;538;Evian Thonon Gaillard;;;;;;
+101;Swindon Town;;;539;Bastia;;;;;;
+102;Yeovil Town;;;540;Reims;;;;;;
+103;AS Monaco;;;541;Troyes;;;;;;
+104;AS Saint-Étienne;;;542;Nantes;;;;;;
+105;EA Guingamp;;;543;Guingamp;;;;;;
+106;FC Évian Thonon Gaillard;;;544;Bayern Munich;;;;;;
+107;FC Girondins Bordeaux;;;545;Dortmund;;;;;;
+108;FC Lorient;;;546;Ein Frankfurt;;;;;;
+109;FC Metz;;;547;FC Koln;;;;;;
+110;FC Nantes;;;548;Hamburg;;;;;;
+111;FC Paris Saint-Germain;;;549;Hannover;;;;;;
+112;FC Stade Rennes;;;550;Leverkusen;;;;;;
+113;FC Toulouse;;;551;Schalke 04;;;;;;
+114;HSC Montpellier;;;552;Stuttgart;;;;;;
+115;OGC Nizza;;;553;Freiburg;;;;;;
+116;Olympique Lyon;;;554;Nurnberg;;;;;;
+117;Olympique Marseille;;;555;Bochum;;;;;;
+118;OSC Lille;;;556;M'gladbach;;;;;;
+119;RC Lens;;;557;Mainz;;;;;;
+120;SC Bastia;;;558;Wolfsburg;;;;;;
+121;SM Caen;;;559;Hertha;;;;;;
+122;Stade Reims;;;560;Werder Bremen;;;;;;
+123;AC Ajaccio;;;561;Hoffenheim;;;;;;
+124;AC Arles-Avignon;;;562;St Pauli;;;;;;
+125;AC Le Havre;;;563;Kaiserslautern;;;;;;
+126;AJ Auxerre;;;564;Augsburg;;;;;;
+127;AS Nancy-Lorraine;;;565;Fortuna Dusseldorf;;;;;;
+128;Clermont Foot Auvergne 63;;;566;Greuther Furth;;;;;;
+129;ES Troyes AC;;;567;Braunschweig;;;;;;
+130;FC Chamois Niort;;;568;Aachen;;;;;;
+131;FC Sochaux-Montbéliard;;;569;Koblenz;;;;;;
+132;FC Tours;;;570;Munich 1860;;;;;;
+133;FC Valenciennes;;;571;Ahlen;;;;;;
+134;FCO Dijon;;;572;Duisburg;;;;;;
+135;GFC Ajaccio;;;573;Hansa Rostock;;;;;;
+136;LB Châteauroux;;;574;Oberhausen;;;;;;
+137;Olympique Nîmes;;;575;Paderborn;;;;;;
+138;SCO Angers;;;576;Union Berlin;;;;;;
+139;Stade Brest 29;;;577;Bielefeld;;;;;;
+140;Stade Laval;;;578;Frankfurt FSV;;;;;;
+141;US Créteil-Lusitanos;;;579;Karlsruhe;;;;;;
+142;US Orléans;;;580;Cottbus;;;;;;
+143;1.FC Köln;;;581;Erzgebirge Aue;;;;;;
+144;1.FSV Mainz 05;;;582;Ingolstadt;;;;;;
+145;Bayer 04 Leverkusen;;;583;Osnabruck;;;;;;
+146;Borussia Dortmund;;;584;Dresden;;;;;;
+147;Borussia Mönchengladbach;;;585;Aalen;;;;;;
+148;Eintracht Frankfurt;;;586;Regensburg;;;;;;
+149;FC Augsburg;;;587;Sandhausen;;;;;;
+150;FC Bayern München;;;588;Milan;;;;;;
+151;FC Schalke 04;;;589;Parma;;;;;;
+152;Hamburger SV;;;590;Cagliari;;;;;;
+153;Hannover 96;;;591;Chievo;;;;;;
+154;Hertha BSC;;;592;Fiorentina;;;;;;
+155;SC Freiburg;;;593;Livorno;;;;;;
+156;SC Paderborn 07;;;594;Palermo;;;;;;
+157;SV Werder Bremen;;;595;Roma;;;;;;
+158;TSG 1899 Hoffenheim;;;596;Sampdoria;;;;;;
+159;VfB Stuttgart;;;597;Siena;;;;;;
+160;VfL Wolfsburg;;;598;Atalanta;;;;;;
+161;1.FC Heidenheim 1846;;;599;Bari;;;;;;
+162;1.FC Kaiserslautern;;;600;Catania;;;;;;
+163;1.FC Nürnberg;;;601;Lazio;;;;;;
+164;1.FC Union Berlin;;;602;Genoa;;;;;;
+165;Eintracht Braunschweig;;;603;Inter;;;;;;
+166;FC Erzgebirge Aue ;;;604;Udinese;;;;;;
+167;FC Ingolstadt 04;;;605;Bologna;;;;;;
+168;FC St. Pauli;;;606;Juventus;;;;;;
+169;Fortuna Düsseldorf;;;607;Napoli;;;;;;
+170;FSV Frankfurt;;;608;Cesena;;;;;;
+171;Karlsruher SC;;;609;Brescia;;;;;;
+172;RasenBallsport Leipzig;;;610;Lecce;;;;;;
+173;SpVgg Greuther Fürth;;;611;Novara;;;;;;
+174;SV Darmstadt 98;;;612;Torino;;;;;;
+175;SV Sandhausen;;;613;Pescara;;;;;;
+176;TSV 1860 München;;;614;Sassuolo;;;;;;
+177;VfL Bochum;;;615;Verona;;;;;;
+178;VfR Aalen;;;616;Crotone;;;;;;
+179;1.FSV Mainz 05 II;;;617;Frosinone;;;;;;
+180;Arminia Bielefeld;;;618;Modena;;;;;;
+181;Borussia Dortmund II;;;619;Padova;;;;;;
+182;Chemnitzer FC;;;620;Piacenza;;;;;;
+183;Dynamo Dresden;;;621;Reggina;;;;;;
+184;FC Energie Cottbus;;;622;Salernitana;;;;;;
+185;FC Hansa Rostock;;;623;Ascoli;;;;;;
+186;FC Rot-Weiß Erfurt;;;624;Empoli;;;;;;
+187;Hallescher FC;;;625;Gallipoli;;;;;;
+188;Holstein Kiel;;;626;Vicenza;;;;;;
+189;MSV Duisburg;;;627;Mantova;;;;;;
+190;SC Fortuna Köln;;;628;Cittadella;;;;;;
+191;SC Preußen Münster ;;;629;Triestina;;;;;;
+192;SG Sonnenhof Großaspach;;;630;Albinoleffe;;;;;;
+193;SpVgg Unterhaching;;;631;Ancona;;;;;;
+194;SSV Jahn Regensburg;;;632;Grosseto;;;;;;
+195;Stuttgarter Kickers;;;633;Piacenza ;;;;;;
+196;SV Wehen Wiesbaden;;;634;Varese;;;;;;
+197;VfB Stuttgart II;;;635;Portogruaro;;;;;;
+198;VfL Osnabrück;;;636;Juve Stabia;;;;;;
+199;AC Cesena;;;637;Gubbio;;;;;;
+200;AC Florenz;;;638;Nocerina;;;;;;
+201;AC Mailand;;;639;Ternana;;;;;;
+202;AS Rom;;;640;Virtus Lanciano;;;;;;
+203;Atalanta Bergamo;;;641;Pro Vercelli;;;;;;
+204;Cagliari Calcio;;;642;Spezia;;;;;;
+205;Chievo Verona;;;643;Avellino;;;;;;
+206;FC Empoli;;;644;Latina;;;;;;
+207;FC Genua 1893;;;645;Trapani;;;;;;
+208;FC Parma;;;646;Carpi;;;;;;
+209;FC Turin;;;647;Heracles;;;;;;
+210;Hellas Verona;;;648;Sparta;;;;;;
+211;Inter Mailand;;;649;Waalwijk;;;;;;
+212;Juventus Turin;;;650;Willem II;;;;;;
+213;Lazio Rom;;;651;Ajax;;;;;;
+214;Sampdoria Genua;;;652;NAC Breda;;;;;;
+215;SSC Neapel;;;653;VVV Venlo;;;;;;
+216;Udinese Calcio;;;654;Vitesse;;;;;;
+217;US Palermo;;;655;AZ Alkmaar;;;;;;
+218;US Sassuolo;;;656;Feyenoord;;;;;;
+219;AC Perugia Calcio;;;657;Groningen;;;;;;
+220;AS Avellino 1912;;;658;Nijmegen;;;;;;
+221;AS Cittadella;;;659;Roda JC;;;;;;
+222;AS Livorno;;;660;Utrecht;;;;;;
+223;AS Varese 1910;;;661;Den Haag;;;;;;
+224;Brescia Calcio;;;662;PSV Eindhoven;;;;;;
+225;Carpi FC 1909;;;663;Twente;;;;;;
+226;Catania Calcio;;;664;Heerenveen;;;;;;
+227;Delfino Pescara 1936;;;665;Graafschap;;;;;;
+228;FC Bari 1908;;;666;Excelsior;;;;;;
+229;FC Bologna;;;667;Roda;;;;;;
+230;FC Crotone;;;668;Heracles ;;;;;;
+231;FC Pro Vercelli 1892;;;669;Roda ;;;;;;
+232;Frosinone Calcio;;;670;Ajax ;;;;;;
+233;Modena FC 1912;;;671;Feyenoord ;;;;;;
+234;Spezia Calcio;;;672;Graafschap ;;;;;;
+235;SS Virtus Lanciano;;;673;Groningen ;;;;;;
+236;Ternana Calcio;;;674;Utrecht ;;;;;;
+237;Trapani Calcio;;;675;Vitesse ;;;;;;
+238;US Latina Calcio;;;676;Willem II ;;;;;;
+239;Vicenza Calcio;;;677;Zwolle;;;;;;
+240;Virtus Entella;;;678;Go Ahead Eagles;;;;;;
+241;AC FeralpiSalo;;;679;Cambuur;;;;;;
+242;AC Lumezzane;;;680;Leixoes;;;;;;
+243;AC Monza Brianza;;;681;Nacional;;;;;;
+244;AC Pavia;;;682;Olhanense;;;;;;
+245;AC Renate;;;683;Pacos Ferreira;;;;;;
+246;AS Giana Erminio;;;684;Sp Lisbon;;;;;;
+247;Aurora Pro Patria;;;685;Sp Braga;;;;;;
+248;Bassano Virtus;;;686;Academica;;;;;;
+249;Calcio Como;;;687;Belenenses;;;;;;
+250;FBC Unione Venezia;;;688;Maritimo;;;;;;
+251;FC Südtirol - Alto Adige;;;689;Porto;;;;;;
+252;Mantova FC;;;690;Rio Ave;;;;;;
+253;Novara Calcio 1908;;;691;Benfica;;;;;;
+254;Pordenone Calcio;;;692;Naval;;;;;;
+255;Real Vicenza VS;;;693;Guimaraes;;;;;;
+256;SEF Torres 1903;;;694;Leiria;;;;;;
+257;U.S. Alessandria 1912;;;695;Setubal;;;;;;
+258;UC AlbinoLeffe;;;696;Beira Mar;;;;;;
+259;US Arezzo;;;697;Portimonense;;;;;;
+260;US Cremonese;;;698;Feirense;;;;;;
+261;ADO Den Haag;;;699;Gil Vicente;;;;;;
+262;Ajax Amsterdam;;;700;Feirense ;;;;;;
+263;AZ Alkmaar;;;701;Moreirense;;;;;;
+264;Excelsior Rotterdam;;;702;Estoril;;;;;;
+265;FC Dordrecht;;;703;Arouca;;;;;;
+266;FC Groningen;;;704;Espanol;;;;;;
+267;FC Twente Enschede;;;705;La Coruna;;;;;;
+268;FC Utrecht;;;706;Malaga;;;;;;
+269;Feyenoord Rotterdam;;;707;Tenerife;;;;;;
+270;Go Ahead Eagles Deventer;;;708;Valladolid;;;;;;
+271;Heracles Almelo;;;709;Villarreal;;;;;;
+272;NAC Breda;;;710;Xerez;;;;;;
+273;PEC Zwolle;;;711;Mallorca;;;;;;
+274;PSV Eindhoven;;;712;Zaragoza;;;;;;
+275;SC Cambuur-Leeuwarden;;;713;Ath Madrid;;;;;;
+276;SC Heerenveen;;;714;Barcelona;;;;;;
+277;Vitesse Arnheim;;;715;Valencia;;;;;;
+278;Willem II Tilburg;;;716;Ath Bilbao;;;;;;
+279;Achilles '29;;;717;Real Madrid;;;;;;
+280;Ajax Amsterdam II;;;718;Sevilla;;;;;;
+281;Almere City FC;;;719;Almeria;;;;;;
+282;De Graafschap Doetinchem;;;720;Getafe;;;;;;
+283;FC Den Bosch;;;721;Osasuna;;;;;;
+284;FC Eindhoven;;;722;Santander;;;;;;
+285;FC Emmen;;;723;Sp Gijon;;;;;;
+286;FC Oss;;;724;Levante;;;;;;
+287;FC Twente Enschede II;;;725;Sociedad;;;;;;
+288;FC Volendam;;;726;Hercules;;;;;;
+289;Fortuna Sittard;;;727;Granada;;;;;;
+290;Helmond Sport;;;728;Betis;;;;;;
+291;MVV Maastricht;;;729;Vallecano;;;;;;
+292;NEC Nijmegen;;;730;Celta;;;;;;
+293;PSV Eindhoven II;;;731;Elche;;;;;;
+294;RKC Waalwijk;;;732;Girona;;;;;;
+295;Roda JC Kerkrade;;;733;Huesca;;;;;;
+296;SC Telstar;;;734;Las Palmas;;;;;;
+297;Sparta Rotterdam;;;735;Numancia;;;;;;
+298;VVV-Venlo;;;736;Salamanca;;;;;;
+299;Académica Coimbra;;;737;Albacete;;;;;;
+300;Benfica Lissabon;;;738;Cartagena;;;;;;
+301;Boavista Porto FC;;;739;Castellon;;;;;;
+302;CD Nacional;;;740;Real Union;;;;;;
+303;CF Belenenses Lissabon;;;741;Recreativo;;;;;;
+304;CS Marítimo;;;742;Murcia;;;;;;
+305;FC Arouca;;;743;Cadiz;;;;;;
+306;FC Paços de Ferreira;;;744;Villarreal B;;;;;;
+307;FC Penafiel;;;745;Cordoba;;;;;;
+308;FC Porto;;;746;Gimnastic;;;;;;
+309;GD Estoril-Praia;;;747;Barcelona B;;;;;;
+310;Gil Vicente FC;;;748;Ponferradina;;;;;;
+311;Moreirense FC;;;749;Alcorcon;;;;;;
+312;Rio Ave FC;;;750;Alcoyano;;;;;;
+313;Sporting Braga;;;751;Guadalajara;;;;;;
+314;Sporting Lissabon;;;752;Sabadell;;;;;;
+315;Vitória Guimaraes SC;;;753;Lugo;;;;;;
+316;Vitória Setúbal FC;;;754;Real Madrid B;;;;;;
+317;Académico Viseu;;;755;Mirandes;;;;;;
+318;Atlético Clube Portugal;;;756;Eibar;;;;;;
+319;Benfica Lissabon B;;;757;Alaves;;;;;;
+320;CD Feirense;;;758;Jaen;;;;;;
+321;CD Santa Clara;;;759;Ankaragucu;;;;;;
+322;CD Tondela;;;760;Bursaspor;;;;;;
+323;CD Trofense;;;761;Buyuksehyr;;;;;;
+324;CF Uniao Madeira;;;762;Fenerbahce;;;;;;
+325;Clube Oriental Lissabon;;;763;Denizlispor;;;;;;
+326;CS Marítimo B;;;764;Galatasaray;;;;;;
+327;Desportivo Aves;;;765;Gaziantepspor;;;;;;
+328;FC Porto B;;;766;Genclerbirligi;;;;;;
+329;GD Chaves;;;767;Kasimpasa;;;;;;
+330;Leixoes SC;;;768;Kayserispor;;;;;;
+331;Portimonense SC;;;769;Antalyaspor;;;;;;
+332;SC Beira-Mar;;;770;Diyarbakirspor;;;;;;
+333;SC Covilha;;;771;Sivasspor;;;;;;
+334;SC Farense;;;772;Trabzonspor;;;;;;
+335;SC Freamunde;;;773;Besiktas;;;;;;
+336;Sporting Braga B;;;774;Manisaspor;;;;;;
+337;Sporting Lissabon B;;;775;Eskisehirspor;;;;;;
+338;Sporting Olhanense;;;776;Bucaspor;;;;;;
+339;UD Oliveirense;;;777;Karabukspor;;;;;;
+340;Vitória Guimaraes SC B;;;778;Konyaspor;;;;;;
+341;Athletic Bilbao;;;779;Orduspor;;;;;;
+342;Atlético Madrid;;;780;Samsunspor;;;;;;
+343;Celta Vigo;;;781;Mersin Idman Yurdu;;;;;;
+344;Deportivo de La Coruna ;;;782;Akhisar Belediyespor;;;;;;
+345;Espanyol Barcelona;;;783;Elazigspor;;;;;;
+346;FC Barcelona;;;784;Rizespor;;;;;;
+347;FC Córdoba;;;785;Erciyesspor;;;;;;
+348;FC Elche;;;;;;;;;;
+349;FC Getafe;;;;;;;;;;
+350;FC Granada;;;;;;;;;;
+351;FC Málaga;;;;;;;;;;
+352;FC Sevilla;;;;;;;;;;
+353;FC Valencia;;;;;;;;;;
+354;FC Villarreal;;;;;;;;;;
+355;Rayo Vallecano;;;;;;;;;;
+356;Real Madrid;;;;;;;;;;
+357;Real Sociedad San Sebastián;;;;;;;;;;
+358;SD Eibar;;;;;;;;;;
+359;UD Almería ;;;;;;;;;;
+360;UD Levante;;;;;;;;;;
+361;AD Alcorcón;;;;;;;;;;
+362;Albacete Balompié;;;;;;;;;;
+363;CA Osasuna;;;;;;;;;;
+364;CD Leganés;;;;;;;;;;
+365;CD Lugo;;;;;;;;;;
+366;CD Mirandés;;;;;;;;;;
+367;CD Numancia ;;;;;;;;;;
+368;CD Teneriffa;;;;;;;;;;
+369;CE Sabadell;;;;;;;;;;
+370;Deportivo Alavés;;;;;;;;;;
+371;FC Barcelona B;;;;;;;;;;
+372;FC Girona;;;;;;;;;;
+373;Racing Santander;;;;;;;;;;
+374;RCD Mallorca;;;;;;;;;;
+375;Real Betis Sevilla;;;;;;;;;;
+376;Real Saragossa ;;;;;;;;;;
+377;Real Valladolid;;;;;;;;;;
+378;Recreativo Huelva;;;;;;;;;;
+379;SD Ponferradina ;;;;;;;;;;
+380;Sporting Gijón;;;;;;;;;;
+381;UD Las Palmas ;;;;;;;;;;
+382;UE Llagostera ;;;;;;;;;;
+383;Atlético Astorga;;;;;;;;;;
+384;Burgos CF;;;;;;;;;;
+385;CD Guijuelo;;;;;;;;;;
+386;CD Lealtad;;;;;;;;;;
+387;CD Tropezón;;;;;;;;;;
+388;Celta Vigo B;;;;;;;;;;
+389;Cultural Leonesa;;;;;;;;;;
+390;FC Coruxo;;;;;;;;;;
+391;FC Zamora;;;;;;;;;;
+392;Marino Luanco;;;;;;;;;;
+393;Racing Ferrol;;;;;;;;;;
+394;Real Avilés;;;;;;;;;;
+395;Real Murcia;;;;;;;;;;
+396;Real Oviedo;;;;;;;;;;
+397;Real Valladolid B;;;;;;;;;;
+398;SD Compostela;;;;;;;;;;
+399;Sporting Gijón B;;;;;;;;;;
+400;UD Logronés;;;;;;;;;;
+401;UD Somozas;;;;;;;;;;
+402;UP Langreo;;;;;;;;;;
+403;Akhisar Belediye Genclik ve Spor;;;;;;;;;;
+404;Balikesirspor;;;;;;;;;;
+405;Besiktas Istanbul;;;;;;;;;;
+406;Bursaspor;;;;;;;;;;
+407;Caykur Rizespor;;;;;;;;;;
+408;Eskisehirspor;;;;;;;;;;
+409;Fenerbahce Istanbul;;;;;;;;;;
+410;Galatasaray Istanbul;;;;;;;;;;
+411;Gaziantepspor;;;;;;;;;;
+412;Genclerbirligi Ankara;;;;;;;;;;
+413;Istanbul Basaksehir;;;;;;;;;;
+414;Kardemir Karabükspor;;;;;;;;;;
+415;Kasimpasa;;;;;;;;;;
+416;Mersin Idman Yurdu;;;;;;;;;;
+417;Sivasspor;;;;;;;;;;
+418;Suat Altin Insaat Kayseri Erciyesspor;;;;;;;;;;
+419;Torku Konyaspor;;;;;;;;;;
+420;Trabzonspor;;;;;;;;;;
+421;Adana Demirspor;;;;;;;;;;
+422;Adanaspor;;;;;;;;;;
+423;Albimo Alanyaspor;;;;;;;;;;
+424;Altinordu;;;;;;;;;;
+425;Antalyaspor;;;;;;;;;;
+426;Boluspor;;;;;;;;;;
+427;Bucaspor;;;;;;;;;;
+428;Denizlispor;;;;;;;;;;
+429;Elazigspor;;;;;;;;;;
+430;Gaziantep Büyüksehir Belediyespor;;;;;;;;;;
+431;Giresunspor;;;;;;;;;;
+432;Karsiyaka;;;;;;;;;;
+433;Kayserispor;;;;;;;;;;
+434;Manisaspor;;;;;;;;;;
+435;Orduspor;;;;;;;;;;
+436;Osmanlispor FK;;;;;;;;;;
+437;Samsunspor;;;;;;;;;;
+438;Sanliurfaspor;;;;;;;;;;
